@@ -1,3 +1,4 @@
+b;bl;k;
 #include <arch/arch.h>
 #include <multiboot.h>
 #include <dev/tty.h>
